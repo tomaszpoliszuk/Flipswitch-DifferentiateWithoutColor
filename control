@@ -1,5 +1,5 @@
 Package: com.tomaszpoliszuk.flipswitchdifferentiatewithoutcolor
-Depends: firmware (>= 9.0), mobilesubstrate, com.a3tweaks.flipswitch
+Depends: firmware (>= 12.0), mobilesubstrate, com.a3tweaks.flipswitch
 Name: Flipswitch - Differentiate Without Color
 Version: 1.0
 Architecture: iphoneos-arm
