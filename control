@@ -1,11 +1,14 @@
 Package: com.tomaszpoliszuk.flipswitchdifferentiatewithoutcolor
 Depends: firmware (>= 12.0), mobilesubstrate, com.a3tweaks.flipswitch
 Name: Flipswitch - Differentiate Without Color
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
-Description: Flipswitch Toggle for Differentiate Without Color
-Maintainer: BigBoss
+Description: Flipswitch toggle for Differentiate Without Color
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchdifferentiatewithoutcolorDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchdifferentiatewithoutcolorDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: Tomasz Poliszuk
 Sponsor: thebigboss.org <http://thebigboss.org>
 Section: Addons (Flipswitch)
 dev: tomaszpoliszuk
+Tag: purpose::extension, compatible::ios12, compatible::ios13
